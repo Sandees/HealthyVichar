@@ -22,3 +22,8 @@ Further since we are using a trial version of Twiliofor relaying SMSs , the appl
 This setup was prepared on a VM (Google Cloud) running on Ubuntu.
 
 The hack is hosted live at -http://130.211.202.132. For best experience, pls use Google chrome.
+
+PRESENTATION
+https://he-s3.s3.amazon...9/c7bba59Flowchart.pptx
+
+
